@@ -8,12 +8,12 @@
 }
 
 @font-face {
-  font-family: 'Taken_by_Vultures_Demo.otf';
+  font-family: Taken by Vultures Demo;
   src: url(fonts/Taken_by_Vultures_Demo.otf);
 }
 
 .banner h1 {
-  font-family: 'Taken_by_Vultures_Demo.otf';
+  font-family: Taken by Vultures Demo;
   color: rgba(5,5,5,0.8);
   font-weight: 100;
   font-size: 150px;

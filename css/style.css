@@ -1,9 +1,5 @@
 /* Importing fonts */
 @import url("https://fonts.googleapis.com/css?family=Lora:400,700|Poppins:100,200,300,400,500,600,700,800,900|Roboto:100,300,400,500,700,900|Source+Sans+Pro:200,300,400,600,700,900");
-@font-face {
-  font-family: 'Taken_by_Vultures_Demo.otf';
-  src: url(fonts/Taken_by_Vultures_Demo.otf);
-}
 
 /* Importing component files */
 @import url("components/banner.css");
