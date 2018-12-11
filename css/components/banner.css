@@ -1,6 +1,6 @@
 @font-face {
-  font-family: Taken by Vultures Demo;
-  src: url(./fonts/Taken_by_Vultures_Demo.otf);
+  font-family: 'Taken by Vultures Demo';
+  src: url(fonts/Taken_by_Vultures_Demo.otf);
 }
 
 .banner {
