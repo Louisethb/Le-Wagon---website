@@ -8,16 +8,16 @@
 @import url("components/card.css");
 
 /* General style rules for fonts and colors */
-.body {
+body {
   margin:0 auto;
   background-color: rgb(230,230,230);
   color: rgb(50,50,50);
-  font-family: 'Lora', serif;
+  font-family: 'Source Sans Pro', serif;
   font-size: 18px;
   text-align: center;
 }
 
-h2{
+h2 {
   text-align: center;
   font-family:'Source Sans Pro';
   font-size: 50px;

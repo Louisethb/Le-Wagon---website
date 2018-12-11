@@ -1,15 +1,15 @@
+@font-face {
+  font-family: Taken by Vultures Demo;
+  src: url(../fonts/Taken_by_Vultures_Demo.otf);
+}
+
 .banner {
-  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url(../../images/sf.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url(../../images/sanfrancisco.jpg);
   background-size: cover;
   background-position: center;
   padding: 500px, auto;
   height: 800px;
   text-align: center;
-}
-
-@font-face {
-  font-family: Taken by Vultures Demo;
-  src: url(fonts/Taken_by_Vultures_Demo.otf);
 }
 
 .banner h1 {
